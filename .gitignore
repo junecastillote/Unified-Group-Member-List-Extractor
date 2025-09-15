@@ -1,0 +1,7 @@
+demo*
+example*
+run*
+ignore/
+*.csv
+*.txt
+*.xml
