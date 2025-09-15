@@ -35,7 +35,7 @@
 <#
 
 .DESCRIPTION
- PowerShell script to list members and owners of Microsoft 365 groups
+ PowerShell script to list members and owners of Microsoft 365 groups and optionally export to CSV
 
 #>
 [CmdletBinding()]
